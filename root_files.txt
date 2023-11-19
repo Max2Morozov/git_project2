@@ -1,0 +1,7 @@
+dz
+file
+git_project
+my_project
+project
+root_files.txt
+user_cmd.txt
