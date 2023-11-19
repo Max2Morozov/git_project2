@@ -1,2 +1,2 @@
-print('Hello, SkyPro')
+print('Hello World')
 
